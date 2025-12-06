@@ -62,9 +62,9 @@ I’m highly motivated to grow as a developer, continuously improve my problem-s
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrsalah10&show_icons=true&locale=en&layout=compact" alt="amrsalah10" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrsalah10&show_icons=true&locale=en&layout=compact" alt="amrsalah10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrsalah10&show_icons=true&locale=en" alt="amrsalah10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrsalah10&show_icons=true&locale=en" alt="amrsalah10" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrsalah10&" alt="amrsalah10" /></p>
 
