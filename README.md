@@ -7,7 +7,7 @@
 
 ## 📊 About Me
 
-I’m a dedicated Software Developer with a background in Odoo development and a strong passion for building scalable, efficient systems. Over the past two years, I’ve worked on developing and customizing business solutions using Python, PostgreSQL, and the Odoo framework, gaining a deep understanding of backend logic, data modeling, and system integration.
+I’m a dedicated Software Developer with a background in Odoo development and a strong passion for building scalable, efficient systems. Over the past three years, I’ve worked on developing and customizing business solutions using Python, PostgreSQL, and the Odoo framework, gaining a deep understanding of backend logic, data modeling, and system integration.
 
 Currently, I’m expanding my skills toward broader Software Engineering concepts — including system design, algorithms, and modern backend technologies like FastAPI, NodeJs and Docker. My goal is to combine practical experience with a solid theoretical foundation to design clean, maintainable, and high-performing applications.
 
